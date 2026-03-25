@@ -1,0 +1,105 @@
+[
+  {
+    "type": "multi",
+    "title": "Spurningar um Júní",
+    "questions": [
+      "Júní varð til þegar tvö fyrirtæki sameinuðust, hvað hétu fyrirtækin?",
+      "Hversu margir vinna hjá Júní?",
+      "Hversu margir Jónar vinna hjá Júní?"
+    ],
+    "answers": ["Kosmos & Kaos, Parallel ráðgjöf", "27", "4"],
+    "image": "juni.jpg"
+  },
+  {
+    "type": "multi",
+    "title": "Júní er mikið með hunda á skrifstofunni en einn er hérna oftar en hinir.",
+    "questions": [
+      "Hvað heitir hundurinn á myndinni? (2 stig fullt nafn, 1 stig gælunafn)",
+      "Hver er starfstitill hans hjá Júní?"
+    ],
+    "answers": ["Þorgeir Guðmundsson, Toggi", "Markaðshundur"],
+    "image": "toggi.png"
+  },
+  {
+    "type": "multi",
+    "title": "Þriðjudagstilboð hjá dominos er stöpull í íslensku samfélagi þrátt fyrir hrap í bæði gæðum og stökk í verði",
+    "questions": [
+      "Hvað kostar þriddari á Dominos í dag",
+      "Er ég (Tumi) ánægður með það?"
+    ],
+    "answers": ["1500kr", "Nei"],
+    "image": "pizza.jpg"
+  },
+  {
+    "type": "multi",
+    "title": "Spurt er um meðlim stiguls Alexander Bjart Guðbjartsson",
+    "questions": [
+      "Hver var tíminn hans við 10km í Reykjavíkurmaraþoninu ágúst 2024? (+-1 mín)",
+      "Samkvæmt upplýsingum frá KSÍ hversu mörg mörk skoraði hann í seinustu 30 leikjum?"
+    ],
+    "answers": ["56:35", "9"],
+    "image": "alexander.png"
+  },
+  {
+    "type": "multi",
+    "title": "Söng konan Bhad Bhabie sló í gegn í raunveruleikaþættinum \"Dr. Phil\" í sept. 2016",
+    "questions": [
+      "Hvað heitir hún í raun og veru? (1 stig hvort nafn)",
+      "Hvaða línu henti hún í til að tryggja sér heimsfrægð? (1 stig)"
+    ],
+    "answers": ["Danielle Bregoli", "Cash me outside, how about that"],
+    "image": "daniellebregoli.webp"
+  },
+  {
+    "type": "single",
+    "image": "atli.jpg",
+    "question": "Hvaða starfsmaður Júní á þessa mottu",
+    "answer": "Atli"
+  },
+  {
+    "type": "single",
+    "question": "Hvaða meðlimur stiguls er með flestar vísóskráningar á þessu vísótímabili?",
+    "answer": "Hrafnkell Hvanndal Halldórsson",
+    "image": "stigull.png"
+  },
+  {
+    "type": "single",
+    "question": "Hvað er þetta?",
+    "answer": "",
+    "image": "howmany.png"
+  },
+  {
+    "type": "multi",
+    "title": "Hver af þessum myndum var EKKI tekin upp á Íslandi?",
+    "questions": [
+      "Noah (2014)",
+      "Lara Croft: Tomb Raider (2001)",
+      "Stella í Orlofi (1986)",
+      "The Revenant (2015)"
+    ],
+    "answers": ["Rangt", "Rangt", "Rangt", "Rétt"]
+  },
+  {
+    "type": "single",
+    "question": "Hvaða ár kom fyrsta Mission Impossible myndin út?",
+    "answer": "1996",
+    "image": "mission-impossible.jpg"
+  },
+  {
+    "type": "multi",
+    "title": "Hvaða myndir eru tjáknaðar hér?",
+    "questions": [
+      "🧛🎶🎸⛪️",
+      "🏓🐕🤓🇯🇵",
+      "🧍‍♂️🐛",
+      "🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️"
+    ],
+    "answers": ["Sinners", "Marty Supreme", "Human Centipede", "Mickey 17"]
+  },
+  {
+    "type": "single",
+    "question": "Hvaða lið vann og hvaða lið tapaði, 5 stig ef bæði rétt",
+    "answer": "🤷",
+    "image": "hestur.jpg"
+  }
+]
