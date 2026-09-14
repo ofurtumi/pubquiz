@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="admin.css" />
+    <title>Pub Quiz · Admin</title>
+  </head>
+  <body>
+    <div id="admin">
+      <header class="admin-bar">
+        <div class="admin-brand">PUB QUIZ · ADMIN</div>
+        <div class="admin-deck-controls">
+          <select id="deckSelect"><option value="">— nýtt deck —</option></select>
+          <input id="filenameInput" type="text" placeholder="skra.json" />
+          <button id="newBtn" class="admin-btn ghost">Nýtt</button>
+          <button id="saveBtn" class="admin-btn primary">Vista</button>
+          <a id="previewLink" class="admin-btn ghost" target="_blank">Skoða glærur ↗</a>
+        </div>
+      </header>
+
+      <div id="statusBar" class="status-bar"></div>
+
+      <main class="admin-main">
+        <section class="deck-fields">
+          <label>Brand (haus)
+            <input id="brandInput" type="text" data-path="brand" />
+          </label>
+        </section>
+
+        <div id="slideList" class="slide-list"></div>
+
+        <button id="addSlideBtn" class="admin-btn add">+ Bæta við glæru</button>
+      </main>
+    </div>
+    <script src="admin.js"></script>
+  </body>
+</html>

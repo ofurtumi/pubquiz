@@ -1,0 +1,214 @@
+{
+  "brand": "NÖRD VÍSÓ · PUB QUIZ",
+  "slides": [
+    {
+      "kind": "title",
+      "eyebrow": "Vísindaferð 2026",
+      "title": "Nörd + Ada Vísó<br>Pub Quiz",
+      "sub": "Besta liðið vinnur",
+      "meta": [
+        "Max 3 í liði",
+        "Vegleg verðlaun í boði"
+      ]
+    },
+    {
+      "kind": "question",
+      "flavor": "Byrjum bara easy.",
+      "text": "Ef þið snúið Júní-lógóinu á hvolf, hvað stafar það þá?",
+      "points": "1",
+      "answerText": "Júní"
+    },
+    {
+      "kind": "question",
+      "flavor": "Tölfræði dagsins, beint af heimasíðunni.",
+      "text": "Hversu margir vinna hjá Júní samkvæmt juni.is?",
+      "points": "1",
+      "answerText": "24"
+    },
+    {
+      "kind": "question",
+      "flavor": "Fyrir þau sem hafa setið í kennslustund hjá honum.",
+      "text": "Hvað er GitHub-notandanafnið hjá Óla vefforritunarkennara?",
+      "points": "1",
+      "answerText": "OSK"
+    },
+    {
+      "kind": "question",
+      "flavor": "Áður en HÍ gangan hófst.",
+      "text": "Í hvaða landi öðru en Íslandi stundaði Ýmir, skemmtanastjórinn ykkar, leikskólanám?",
+      "points": "1",
+      "answerText": "Ýmir"
+    },
+    {
+      "kind": "question",
+      "flavor": "Nörd heldur uppi Nördkastinu en það hefur breyst smá í gegnum tíðina",
+      "text": "Hverjir voru upprunalegu stjórnendur Nördkastsins, og bónusstig hver þeirra vann hjá Júní?",
+      "points": "4",
+      "answerText": "Bjarki, Siffi og Eddi, Bjarki vann hjá Júní"
+    },
+    {
+      "kind": "question",
+      "flavor": "Ein frægasta lína kvikmyndasögunnar, orð fyrir orð takk.",
+      "text": "Í Star Wars V, The Empire Strikes Back, tilkynnir Svarthöfði að hann sé pabbi Loga Geimgengils — hvernig hljómar sú fræga lína?",
+      "points": "1",
+      "answerText": "\"No, I am your father.\""
+    },
+    {
+      "kind": "question",
+      "flavor": "Wicked myndirnar slógu í gegn á seinustu árum.",
+      "text": "Hvað hét karakterinn sem Ariana Grande lék í seinni myndinni?",
+      "points": "1",
+      "answerText": "Glinda"
+    },
+    {
+      "kind": "challenge",
+      "flavor": "Engin spurning hér bara harka.",
+      "text": "Chugga drykk, stig ef amk einn í liðinu gerir það, þið hafið 10 sek.",
+      "points": "2"
+    },
+    {
+      "kind": "divider",
+      "title": "Áskorun",
+      "sub": "Bara sá meðlimur liðs sem chuggaði drykk má taka þátt"
+    },
+    {
+      "kind": "challenge",
+      "flavor": "Hvaða lið er sneggst.",
+      "text": "Finnið boltann fyrir foosball og komið honum til Atla",
+      "points": "2"
+    },
+    {
+      "kind": "question",
+      "flavor": "Ertu survival master?.",
+      "text": "Hvernig smíðar maður hnakk í Minecraft? Teiknið uppskriftina upp eins og á smíðaborði.",
+      "points": "2",
+      "answerGrid": [
+        "",
+        "🟫",
+        "",
+        "🟫",
+        "⬜",
+        "🟫",
+        "",
+        "",
+        ""
+      ],
+      "answerNote": "🟫 leður · ⬜ iron ingot",
+      "gridCaption": "Uppskriftin á smíðaborðinu"
+    },
+    {
+      "kind": "question",
+      "flavor": "Atli gerði þessa.",
+      "text": "Hvað heitir munkurinn í þjóðsögunni um Hróa Hött (e. Robin Hood)?",
+      "points": "1",
+      "answerText": "Friar Tuck / Tóki Munkur"
+    },
+    {
+      "kind": "question",
+      "flavor": "Hvaða íslenski stjórnmálamaður átti þessu fleygu orð.",
+      "text": "Þú ert að spurja mig um hluti sem ég er ekki einu sinni búinn að kynna mér?",
+      "points": "1",
+      "answerText": "Sigmundur Davíð Gunnlaugsson"
+    },
+    {
+      "kind": "question",
+      "flavor": "Fyllið inn í eyðurnar í þremur frægum íslenskum menningarperlum.",
+      "text": null,
+      "parts": [
+        {
+          "letter": "A · 3 stig",
+          "line": "„Fokk _____, hann er fokking _______ Andri, þú ______ símann\"",
+          "blanks": [
+            "sími",
+            "brautur",
+            "brjóst"
+          ]
+        },
+        {
+          "letter": "B · 4 stig",
+          "line": "„Þetta er svona ________ kaka með _________, mjög svona bara _________ og ___ kaka\"",
+          "blanks": [
+            "ritzkex",
+            "salthnetum",
+            "skemmtileg",
+            "góð"
+          ]
+        },
+        {
+          "letter": "C · 3 stig",
+          "line": "„Ég veit líka hvernig þetta er, ég hélt fram hjá _____ og ég sagði honum _____ frá því, _____!\"",
+          "blanks": [
+            "Elvari",
+            "strax",
+            "strax"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "flavor": "Nefnið myndirnar hérna fyrir neðan.",
+      "text": null,
+      "parts": [
+        {
+          "letter": "A · 1 stig",
+          "line": "🪱🚫💦🌶️ ____",
+          "blanks": [
+            "Dune"
+          ]
+        },
+        {
+          "letter": "B · 1 stig",
+          "line": "🤓🏓🇯🇵 _____ _______",
+          "blanks": [
+            "Marty",
+            "Supreme"
+          ]
+        },
+        {
+          "letter": "C · 1 stig",
+          "line": "🐴⚔️👁️🚢🏹 _______",
+          "blanks": [
+            "Odyssey"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "music-question",
+      "flavor": "Giskið á strumpalögin + upprunalegt lag út frá stuttum brotum.",
+      "parts": [
+        {
+          "letter": "A · 2 stig",
+          "src": "audio/strumpaparadis.mp3",
+          "start": 0,
+          "answer": "Strumpaparadís - gangsta's paradise"
+        },
+        {
+          "letter": "B · 2 stig",
+          "src": "audio/strump_med_mer.mp3",
+          "start": 0,
+          "answer": "Strump með mér - Stayin' alive"
+        },
+        {
+          "letter": "C · 2 stig",
+          "src": "audio/draumastrumpur.mp3",
+          "start": 0,
+          "answer": "Draumastrumpur - When i think of you"
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "flavor": "Lokaspurning, ekki klúðra þessu núna.",
+      "text": "Hvað tek ég (Tumi) í bekk?",
+      "points": "1",
+      "answerText": "115kg"
+    },
+    {
+      "kind": "closing",
+      "title": "Kærar þakkir fyrir okkur",
+      "sub": "Rennum yfir stigin — sigurvegararnir fá síðan verðlaun"
+    }
+  ]
+}

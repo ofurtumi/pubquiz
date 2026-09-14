@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>Nörd Vísó Pub Quiz</title>
+  </head>
+  <body>
+    <div id="app">
+      <header class="bar">
+        <div class="brand-wrap">
+          <button type="button" class="brand" id="brandBtn" aria-haspopup="listbox" aria-expanded="false">
+            <span id="brandText">NÖRD VÍSÓ · PUB QUIZ</span>
+            <span class="caret">▾</span>
+          </button>
+          <div class="deck-menu" id="deckMenu" role="listbox" hidden></div>
+        </div>
+        <div class="count" id="count">01 / 15</div>
+        <button class="fs" id="fsBtn">FULLSCREEN</button>
+      </header>
+
+      <main class="stage" id="stage"></main>
+
+      <footer class="bar">
+        <button class="navbtn" id="prevBtn" aria-label="Fyrri">‹</button>
+        <div class="dots" id="dots"></div>
+        <span class="hint">← → skipta um glæru · A birtir svar</span>
+        <button class="navbtn" id="nextBtn" aria-label="Næsta">›</button>
+      </footer>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>

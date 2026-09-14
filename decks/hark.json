@@ -1,0 +1,196 @@
+{
+  "brand": "HARK VÍSÓ · PUB QUIZ",
+  "slides": [
+    {
+      "kind": "title",
+      "eyebrow": "Vísindaferð 2026",
+      "title": "HARK Vísó<br>Pub Quiz",
+      "sub": "Besta liðið vinnur",
+      "meta": [
+        "Max 3 í liði",
+        "Vegleg verðlaun í boði"
+      ]
+    },
+    {
+      "kind": "divider",
+      "title": "Spurningar um júní",
+      "sub": "Leggið þetta á minnið þegar þið sækið um vinnu..."
+    },
+    {
+      "kind": "question",
+      "flavor": "Byrjum á einni auðveldri",
+      "points": 1,
+      "text": "Hvað stafar Júní logoið ef við snúum því á hvolf?",
+      "answerLabel": "Svar",
+      "answerText": "Júní"
+    },
+    {
+      "kind": "question",
+      "flavor": "Rauntímaupplýsingar",
+      "text": "Samkvæmt juni.is, hversu margt fólk vinnur hjá Júní?",
+      "points": 1,
+      "answerLabel": "Svar",
+      "answerText": "24"
+    },
+    {
+      "kind": "question",
+      "flavor": "Júní er ennþá frekar nýtt fyrirtæki",
+      "text": "Hvað hétu fyrirtækin tvö sem sameinuðust til að mynda Júní?",
+      "points": "2",
+      "answerText": "Kosmos & kaos og Parallel ráðgjöf"
+    },
+    {
+      "kind": "question",
+      "flavor": "1 stig fyrir gælunafn, 3 fyrir fullt nafn",
+      "text": "Hvað heitir fyrrum markaðsstjóri júní?",
+      "points": "1-3",
+      "answerLabel": "Svar",
+      "answerText": "Toggi eða Þorgeir Guðmundsson",
+      "image": "images/Screenshot_2026-09-11_at_12-46-42_Ju_ni____Stafr_n_ho_nnun__ro_un_og_ra__gjo_f.png"
+    },
+    {
+      "kind": "divider",
+      "title": "Challenge round",
+      "sub": "Veljið einn í liðinu til að klára eftirfarandi áskorun"
+    },
+    {
+      "kind": "challenge",
+      "flavor": "Chug chug chug",
+      "text": "Opnið nýjan drykk og klárið hann, þið hafið 10 sek",
+      "points": "2",
+      "answerText": ""
+    },
+    {
+      "kind": "divider",
+      "title": "Hönnunarspurningar",
+      "sub": "Þið vitið þetta örugglega betur en ég, 1 stig fyrir að leiðrétta spurningar"
+    },
+    {
+      "kind": "question",
+      "flavor": "Aðeins um bókmenntir",
+      "text": "Hver skrifaði \"The design of Everyday Things\"?",
+      "points": "1",
+      "answerText": "Don Norman",
+      "image": "images/CleanShot_2026-09-11_at_11.39.03_2x.png"
+    },
+    {
+      "kind": "question",
+      "flavor": "Árið 2020 fór Sindri í árs skiptinám í 3 mánuði",
+      "text": "Hvert fór hann og afhverju þurfti hann að koma til baka?",
+      "points": "2",
+      "answerText": "Costa Rica,\nvegna veirunnar skæðu",
+      "image": "images/sindri.png"
+    },
+    {
+      "kind": "question",
+      "flavor": "Bransinn",
+      "text": "Fyrir hvað standa skammstafanirnar UI og UX?",
+      "points": "2",
+      "answerText": "User interface og user experience"
+    },
+    {
+      "kind": "question",
+      "flavor": "Hex",
+      "text": "Hvaða litur er táknaður með hex kóðanum \n#009900",
+      "points": "2",
+      "answerText": "Grænn :)"
+    },
+    {
+      "kind": "divider",
+      "title": "Challenge round",
+      "sub": "Chuggarinn úr seinustu áskorun gerir þessa"
+    },
+    {
+      "kind": "challenge",
+      "flavor": "Hvaða lið er fljótast?",
+      "text": "Finnið golfbolta og komið honum til Tinnu\n\nBoltarnir eru tveir,\nlið má bara taka einn",
+      "points": "2"
+    },
+    {
+      "kind": "divider",
+      "title": "Almennt trivia",
+      "sub": "Bannað að leiðrétta mig hérna, fáið mínusstig"
+    },
+    {
+      "kind": "question",
+      "flavor": "Við elskum öll minecraft",
+      "text": "Hvernig smíðar maður áttavita (compass) í minecraft?\n\nTeiknið uppskriftina",
+      "points": "3",
+      "answerText": "",
+      "answerGrid": [
+        "",
+        "⬜",
+        "",
+        "⬜",
+        "🟥",
+        "⬜",
+        "",
+        "⬜",
+        ""
+      ],
+      "gridCaption": "Uppskrift fyrir compass",
+      "answerNote": "⬜️: iron, 🟥: redstone"
+    },
+    {
+      "kind": "question",
+      "flavor": "Wicked myndirnar slógu í gegn á seinustu árum.",
+      "text": "Hvað hét karakterinn sem Ariana Grande lék í seinni myndinni?",
+      "points": "1",
+      "answerText": "Glinda, mínusstig fyrir Galinda"
+    },
+    {
+      "kind": "question",
+      "flavor": "Fyllið í eyðurnar",
+      "points": "1",
+      "parts": [
+        {
+          "letter": "1. (3 stig)",
+          "line": "„Fokk _____, hann er fokking _______ Andri, þú ______ símann\"",
+          "blanks": [
+            "sími",
+            "brautur",
+            "brjóst"
+          ]
+        },
+        {
+          "letter": "2. (4 stig)",
+          "line": "„Þetta er svona ________ kaka með _________, mjög svona bara _________ og ___ kaka\"",
+          "blanks": [
+            "ritzkex",
+            "salthnetum",
+            "skemmtileg",
+            "góð"
+          ]
+        },
+        {
+          "letter": "3. (3 stig)",
+          "line": "„Ég veit líka hvernig þetta er, ég hélt fram hjá _____ og ég sagði honum _____ frá því, _____!\"",
+          "blanks": [
+            "Elvari",
+            "strax",
+            "strax"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "flavor": "Hvaða stjórnmálamaður átti þessi fleygu orð?",
+      "text": "\"Þú ert að spyrja mig um hluti sem ég er ekki einu sinni búinn að kynna mér?\"",
+      "points": "2",
+      "answerText": "Sigmundur Davíð (simmi d)"
+    },
+    {
+      "kind": "divider",
+      "title": "LOKASPURNING",
+      "sub": "Þessi er mikilvæg, leggið svarið á minnið"
+    },
+    {
+      "kind": "question",
+      "flavor": "Mjög mjög sterkur",
+      "text": "Hvað maxa ég í bekk?",
+      "points": "3",
+      "answerText": "115kg"
+    }
+  ]
+}
