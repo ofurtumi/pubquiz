@@ -12,6 +12,7 @@
   },
   {
     "type": "multi",
+    "title": "Toggi er... tja... Hundur",
     "questions": [
       "Hvað heitir Toggi fullu nafni?",
       "Hver er starfstitill hans hjá Júní?"
@@ -26,10 +27,14 @@
     "image": "puppies.jpg"
   },
   {
-    "type": "single",
-    "title": "Þriðjudagstilboð hjá dominos er stöpull í íslensku samfélagi",
-    "question": "Hvað kostar þriddari á Dominos í dag",
-    "answer": "1500kr",
+    "type": "multi",
+    "title": "Við erum öll með puttann á púlsinum með peninga",
+    "questions": [
+      "Hversu mikil er verðbólgan í dag?",
+      "Hvað kostar kg af skyri í krónunni í dag?",
+      "Hvað kostar þriddari á Dominos í dag"
+    ],
+    "answers": ["5.4%", "646kr", "1500kr"],
     "image": "pizza.jpg"
   },
   {
@@ -76,13 +81,21 @@
     "image": "barbell-bench-press.gif"
   },
   {
+    "type": "single",
+    "title": "Við erum öll góð í stærðfræði, það er fact",
+    "question": "Hver er útkoman úr 25 * 6 + 7 * -11",
+    "answer": "73",
+    "image": "sixseven.webp"
+  },
+  {
     "type": "multi",
     "title": "Hvaða myndir eru tjáknaðar hér?",
     "questions": [
       "🧛🎶🎸⛪️",
       "🏓🐕🤓🇯🇵",
       "🧍‍♂️🐛",
-      "🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️"
+      "🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️",
+      "⛴️🔪🐦‍⬛🪽"
     ],
     "answers": ["Sinners", "Marty Supreme", "Human Centipede", "Mickey 17"]
   }

@@ -5,7 +5,9 @@
       <p class="question-text">{{ page.title || page.question }}</p>
       <ol v-if="page.title" class="question-list">
         <li>
-          <span class="q-text">{{ page.question }}</span>
+          <span class="q-text" :class="{ 'q-text-large': !page.image }">{{
+            page.question
+          }}</span>
           <span v-if="reviewMode && page.answer" class="answer-inline">{{
             page.answer
           }}</span>
@@ -24,7 +26,9 @@
       <h2 v-if="page.title" class="page-title">{{ page.title }}</h2>
       <ol class="question-list">
         <li v-for="(q, i) in page.questions" :key="i">
-          <span class="q-text">{{ typeof q === "string" ? q : q.text }}</span>
+          <span class="q-text" :class="{ 'q-text-large': !page.image }">{{
+            typeof q === "string" ? q : q.text
+          }}</span>
           <span v-if="reviewMode && page.answers?.[i]" class="answer-inline">
             {{ page.answers[i] }}
           </span>
@@ -119,10 +123,14 @@ defineProps({
   display: block;
 }
 
+.q-text-large {
+  font-size: 7rem;
+}
+
 .answer-inline {
   color: #f1511e;
   font-weight: 600;
-  font-size: 0.9em;
+  font-size: 1.5em;
 }
 
 .answer-block {

@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <header class="app-header">
-      <h1>{{ mode === "review" ? "Svör" : "STIGULL POB QUIZS" }}</h1>
+      <h1>{{ mode === "review" ? "Svör" : "SVEF PEPPQUIZ" }}</h1>
       <div class="progress" v-if="!isFinal">
         {{ currentIndex + 1 }}&thinsp;/&thinsp;{{ questions.length }}
       </div>
